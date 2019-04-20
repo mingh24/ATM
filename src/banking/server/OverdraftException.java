@@ -1,6 +1,5 @@
 /**
- * @author: 黄明
- * @studentNumber: 17301004
+ * @author: Yi
  * @className: OverdraftException.java
  * @packageName: banking.server
  * @date: 2018-10-09    15:40
