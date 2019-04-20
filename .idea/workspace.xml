@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Client:jar" />
+      <artifact name="Server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb13c60d-873b-4aa3-afb0-d27691293128" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ATM" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/banking/server/BankServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/banking/server/ServerGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#buildLoginGUI#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Login#0;class#ServerGUI#0" />
+                <element signature="docComment;method#actionPerformed#0;class#Login#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Add#0;class#ServerGUI#0" />
+                <element signature="docComment;method#actionPerformed#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="method#actionPerformed#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Next1#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="class#Next1#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="method#actionPerformed#0;class#Next1#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Next2#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="class#Next2#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="method#actionPerformed#0;class#Next2#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Back1#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="class#Back1#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Back2#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="class#Back2#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="method#actionPerformed#0;class#Back2#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Cancel#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="class#Cancel#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="docComment;class#AddFinish#0;class#Add#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Delete#0;class#ServerGUI#0" />
+                <element signature="docComment;method#actionPerformed#0;class#Delete#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Next#0;class#Delete#0;class#ServerGUI#0" />
+                <element signature="class#Next#0;class#Delete#0;class#ServerGUI#0" />
+                <element signature="method#actionPerformed#0;class#Next#0;class#Delete#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Cancel#0;class#Delete#0;class#ServerGUI#0" />
+                <element signature="class#Cancel#0;class#Delete#0;class#ServerGUI#0" />
+                <element signature="docComment;class#DeleteFinish#0;class#Delete#0;class#ServerGUI#0" />
+                <element signature="class#DeleteFinish#0;class#Delete#0;class#ServerGUI#0" />
+                <element signature="method#actionPerformed#0;class#DeleteFinish#0;class#Delete#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Quit#0;class#ServerGUI#0" />
+                <element signature="docComment;class#Tip#0;class#ServerGUI#0" />
+                <element signature="class#Tip#0;class#ServerGUI#0" />
+                <element signature="method#actionPerformed#0;class#Tip#0;class#ServerGUI#0" />
+                <element signature="docComment;class#About#0;class#ServerGUI#0" />
+                <element signature="class#About#0;class#ServerGUI#0" />
+                <element signature="method#actionPerformed#0;class#About#0;class#ServerGUI#0" />
+                <element signature="docComment;class#NumberOnlyField#0;class#ServerGUI#0" />
+                <element signature="class#NumberOnlyField#0;class#ServerGUI#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>basic</find>
+      <find>instr</find>
+      <find>finish</find>
+      <find>login</find>
+      <find>name</find>
+      <find>Instruction</find>
+      <find>textfield</find>
+      <find>YES_OPTION</find>
+      <find>numberonly</find>
+      <find>confirm</find>
+      <find>deposit</find>
+      <find>register</find>
+      <find>cardNumber</find>
+      <find>\n</find>
+      <find>Successful</find>
+      <find>17</find>
+      <find>16</find>
+      <find>14</find>
+      <find>JOp</find>
+      <find>html</find>
+      <find>&lt;html&gt;&lt;body&gt;&lt;font size=\&quot;5\&quot;&gt;</find>
+      <find>JOptionPane</find>
+      <find>6</find>
+      <find>account</find>
+      <find>catch</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/banking/domain/Customer.java" />
+        <option value="$PROJECT_DIR$/src/Server.java" />
+        <option value="$PROJECT_DIR$/src/banking/domain/SavingsAccount.java" />
+        <option value="$PROJECT_DIR$/src/banking/domain/SavingAccount.java" />
+        <option value="$PROJECT_DIR$/src/banking/domain/CheckingAccount.java" />
+        <option value="$PROJECT_DIR$/src/banking/domain/Account.java" />
+        <option value="$PROJECT_DIR$/src/banking/domain/OverdraftException.java" />
+        <option value="$PROJECT_DIR$/src/banking/domain/Bank.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/GUI.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/Bank.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/ReceiveClient.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/ReceiveServer.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/ContactServer.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/ConnectServer.java" />
+        <option value="$PROJECT_DIR$/src/banking/data/Instrcution.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/ClientLogininGUI.java" />
+        <option value="$PROJECT_DIR$/src/banking/data/Fonts.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/ServerGUI.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/ClientGUI.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/ServerLoginGUI.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/BankClient.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/CheckingAccount.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/OverdraftException.java" />
+        <option value="$PROJECT_DIR$/src/banking/data/Instruction.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/Account.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/SavingAccount.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/ClientOperatingGUI.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/ConnectWithServer.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/BankServer.java" />
+        <option value="$PROJECT_DIR$/src/banking/client/ClientLoginGUI.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/ConnectWithClient.java" />
+        <option value="$PROJECT_DIR$/src/banking/server/ServerGUI.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Online Game" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="power.mode.ii" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="banking.server" />
+      <recent name="banking.client" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="？" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestClient">
+    <configuration name="TestClient" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="banking.client.ClientLoginGUI" />
+      <module name="ATM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/banking/client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="banking.server.BankServer" />
+      <module name="ATM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/banking/server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb13c60d-873b-4aa3-afb0-d27691293128" name="Default Changelist" comment="" />
+      <created>1542090251445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542090251445</updated>
+      <workItem from="1542090254382" duration="6884000" />
+      <workItem from="1542373237368" duration="599000" />
+      <workItem from="1542418732796" duration="8672000" />
+      <workItem from="1542460638146" duration="706000" />
+      <workItem from="1542692077092" duration="7283000" />
+      <workItem from="1542713440115" duration="2595000" />
+      <workItem from="1542794136306" duration="1011000" />
+      <workItem from="1542795225166" duration="112000" />
+      <workItem from="1542801851555" duration="1601000" />
+      <workItem from="1542855123940" duration="7487000" />
+      <workItem from="1542888060006" duration="8234000" />
+      <workItem from="1542900833048" duration="333000" />
+      <workItem from="1542901334109" duration="1000" />
+      <workItem from="1542901365728" duration="15000" />
+      <workItem from="1542943002637" duration="6544000" />
+      <workItem from="1542971977966" duration="10966000" />
+      <workItem from="1543027084721" duration="7739000" />
+      <workItem from="1543040820579" duration="2558000" />
+      <workItem from="1543054625780" duration="2607000" />
+      <workItem from="1543064468663" duration="5535000" />
+      <workItem from="1543072272694" duration="3453000" />
+      <workItem from="1543110229324" duration="29851000" />
+      <workItem from="1543150610385" duration="11314000" />
+      <workItem from="1543218746404" duration="612000" />
+      <workItem from="1543240866879" duration="4143000" />
+      <workItem from="1543308680327" duration="19845000" />
+      <workItem from="1543375887979" duration="14456000" />
+      <workItem from="1543392348673" duration="600000" />
+      <workItem from="1543392998729" duration="305000" />
+      <workItem from="1543394989107" duration="2025000" />
+      <workItem from="1545112980418" duration="8000" />
+      <workItem from="1545212956247" duration="608000" />
+      <workItem from="1545674837691" duration="29000" />
+      <workItem from="1545676038191" duration="23000" />
+      <workItem from="1545683049743" duration="48000" />
+      <workItem from="1550574928516" duration="1457000" />
+      <workItem from="1553156308857" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="175934000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49891305" weight="0.1369936" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="设计师" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50108695" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3261105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/banking/client/CustomerReport.java" />
+    <entry file="file://$PROJECT_DIR$/src/banking/domain/Customer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/banking.server">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>banking.server</OriginalElement>
+          <nodes>
+            <node x="" y="">banking.server.ServerGUI</node>
+            <node x="" y="">banking.server.SavingAccount</node>
+            <node x="" y="">banking.server.Account</node>
+            <node x="" y="">banking.server.OverdraftException</node>
+            <node x="" y="">banking.server.Bank</node>
+            <node x="" y="">banking.server.CheckingAccount</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="394.0" y="286.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestBanking.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1078">
+          <caret line="417" column="21" selection-start-line="417" selection-start-column="21" selection-end-line="417" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/awt/Font.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4428">
+          <caret line="223" column="13" selection-start-line="223" selection-start-column="13" selection-end-line="223" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="60" column="23" lean-forward="true" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="375" column="18" selection-start-line="375" selection-start-column="18" selection-end-line="375" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="633" column="23" selection-start-line="633" selection-start-column="23" selection-end-line="633" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/Client.java" />
+    <entry file="uml://JAVA/banking.client.BankClient">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>banking.client.BankClient</OriginalElement>
+          <nodes>
+            <node x="" y="">banking.client.ClientOperatingGUI.DepositFinish</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Back</node>
+            <node x="" y="">banking.client.BankClient</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.WithdrawFinish</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Withdraw</node>
+            <node x="" y="">banking.client.ClientLoginGUI</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Query</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Refund</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.NumberOnlyField</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.ModifyPsw</node>
+            <node x="" y="">banking.client.ConnectWithServer</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.ModifyPswFinish</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Deposit</node>
+            <node x="" y="">banking.data.Fonts</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.TransferFinish</node>
+            <node x="" y="">banking.client.ClientLoginGUI.NumberOnlyField</node>
+            <node x="" y="">banking.client.ClientOperatingGUI</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Transfer</node>
+            <node x="" y="">banking.client.ClientLoginGUI.About</node>
+            <node x="" y="">banking.client.ClientLoginGUI.Tip</node>
+            <node x="" y="">banking.data.Instruction</node>
+            <node x="" y="">banking.client.ClientLoginGUI.Login</node>
+            <node x="" y="">banking.client.ClientLoginGUI.Quit</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.304601165360659" x="2479.0" y="602.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="2678" selection-start-line="2678" selection-end-line="2678" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/client/BankClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/banking/data/BankServer">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/server/OverdraftException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/server/SavingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/data/Fonts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/banking.client.ClientLoginGUI">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>banking.client.ClientLoginGUI</OriginalElement>
+          <nodes>
+            <node x="" y="">banking.client.ClientOperatingGUI.DepositFinish</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Back</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.WithdrawFinish</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Withdraw</node>
+            <node x="" y="">banking.client.ClientLoginGUI</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Query</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Refund</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.ModifyPsw</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.NumberOnlyField</node>
+            <node x="" y="">banking.client.ConnectWithServer</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Deposit</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.ModifyPswFinish</node>
+            <node x="" y="">banking.data.Fonts</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.TransferFinish</node>
+            <node x="" y="">banking.client.ClientLoginGUI.NumberOnlyField</node>
+            <node x="" y="">banking.client.ClientOperatingGUI</node>
+            <node x="" y="">banking.client.ClientLoginGUI.About</node>
+            <node x="" y="">banking.client.ClientLoginGUI.Tip</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Transfer</node>
+            <node x="" y="">banking.data.Instruction</node>
+            <node x="" y="">banking.client.ClientLoginGUI.Login</node>
+            <node x="" y="">banking.client.ClientLoginGUI.Quit</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2997789833232871" x="2479.0" y="416.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/banking.client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>banking.client</OriginalElement>
+          <nodes>
+            <node x="" y="">banking.client.ClientOperatingGUI.DepositFinish</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Back</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.WithdrawFinish</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Withdraw</node>
+            <node x="" y="">banking.client.ClientLoginGUI</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Query</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Refund</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.ModifyPsw</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.NumberOnlyField</node>
+            <node x="" y="">banking.client.ConnectWithServer</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Deposit</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.ModifyPswFinish</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.TransferFinish</node>
+            <node x="" y="">banking.client.ClientLoginGUI.NumberOnlyField</node>
+            <node x="" y="">banking.client.ClientOperatingGUI</node>
+            <node x="" y="">banking.client.ClientLoginGUI.About</node>
+            <node x="" y="">banking.client.ClientLoginGUI.Tip</node>
+            <node x="" y="">banking.client.ClientOperatingGUI.Transfer</node>
+            <node x="" y="">banking.client.ClientLoginGUI.Login</node>
+            <node x="" y="">banking.client.ClientLoginGUI.Quit</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8" x="913.0" y="524.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/data/Instruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/banking.server.Account">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>banking.server.Account</OriginalElement>
+          <nodes>
+            <node x="2193.573532668882" y="2829.0">java.lang.Throwable</node>
+            <node x="5331.5" y="3877.5">banking.server.ServerGUI.Delete.Cancel</node>
+            <node x="343.0" y="3220.5">java.lang.Thread.WeakClassKey</node>
+            <node x="0.0" y="3256.0">java.lang.Thread.UncaughtExceptionHandler</node>
+            <node x="0.0" y="4231.0">banking.server.BankServer</node>
+            <node x="3886.5" y="3877.5">banking.server.ServerGUI.Add.Cancel</node>
+            <node x="1663.0" y="3071.0">banking.server.Account</node>
+            <node x="2571.5" y="4073.5">banking.server.OverdraftException</node>
+            <node x="896.5" y="206.5">java.lang.Runnable</node>
+            <node x="2902.5" y="3854.0">java.lang.Throwable.SentinelHolder</node>
+            <node x="5907.1222868217055" y="3256.0">banking.server.ServerGUI.About</node>
+            <node x="529.0487541528241" y="0.0">java.lang.FunctionalInterface</node>
+            <node x="4781.916666666667" y="1299.5">banking.server.ServerGUI</node>
+            <node x="4464.5" y="3877.5">banking.server.ServerGUI.Add.AddFinish</node>
+            <node x="5042.5" y="3877.5">banking.server.ServerGUI.Delete.Next</node>
+            <node x="756.0" y="3232.5">java.lang.Thread.Caches</node>
+            <node x="5618.1222868217055" y="3256.0">banking.server.ServerGUI.Login</node>
+            <node x="5329.1222868217055" y="3037.0">banking.server.ServerGUI.Delete</node>
+            <node x="604.5" y="436.0">java.lang.Thread</node>
+            <node x="4713.666666666667" y="80.0">banking.data.Instruction</node>
+            <node x="2182.25" y="3854.0">java.lang.Throwable.PrintStreamOrWriter</node>
+            <node x="4478.916666666667" y="3256.0">banking.server.ServerGUI.Tip</node>
+            <node x="3349.8820874861576" y="3244.0">banking.server.ServerGUI.NumberOnlyField</node>
+            <node x="4753.5" y="3877.5">banking.server.ServerGUI.Add.Back1</node>
+            <node x="4175.5" y="3877.5">banking.server.ServerGUI.Add.Back2</node>
+            <node x="4025.5" y="3002.5">banking.server.ServerGUI.Add</node>
+            <node x="1789.5" y="3796.0">banking.server.SavingAccount</node>
+            <node x="2292.5" y="4062.0">java.lang.Throwable.WrappedPrintWriter</node>
+            <node x="1181.0" y="2990.5">banking.server.ConnectWithClient</node>
+            <node x="2003.5" y="4062.0">java.lang.Throwable.WrappedPrintStream</node>
+            <node x="2534.5" y="3819.5">java.lang.Exception</node>
+            <node x="1467.5" y="3807.5">banking.server.CheckingAccount</node>
+            <node x="2123.9237541528237" y="1587.5">java.io.Serializable</node>
+            <node x="4767.916666666667" y="3256.0">banking.server.ServerGUI.Quit</node>
+            <node x="5620.5" y="3877.5">banking.server.ServerGUI.Delete.DeleteFinish</node>
+            <node x="3597.5" y="3877.5">banking.server.ServerGUI.Add.Next2</node>
+            <node x="3308.5" y="3877.5">banking.server.ServerGUI.Add.Next1</node>
+            <node x="4918.666666666667" y="160.5">banking.data.Fonts</node>
+            <node x="1564.5" y="1576.0">java.lang.Comparable</node>
+            <node x="1507.0" y="3186.5">java.lang.Thread.State</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="banking.server.ServerGUI.Delete.Cancel" target="banking.server.ServerGUI.Delete">
+              <point x="0.0" y="-26.5" />
+              <point x="5466.0" y="3776.0" />
+              <point x="5463.6222868217055" y="3776.0" />
+              <point x="0.0" y="245.5" />
+            </edge>
+            <edge source="java.lang.Throwable" target="java.io.Serializable">
+              <point x="0.0" y="-453.5" />
+              <point x="2531.073532668882" y="2809.0" />
+              <point x="2195.1737541528237" y="2809.0" />
+              <point x="14.25" y="15.0" />
+            </edge>
+            <edge source="banking.server.ServerGUI" target="banking.data.Fonts">
+              <point x="60.25" y="-303.0" />
+              <point x="4962.666666666667" y="411.0" />
+              <point x="4998.666666666667" y="411.0" />
+              <point x="0.0" y="72.5" />
+            </edge>
+            <edge source="java.lang.Thread.State" target="java.lang.Thread">
+              <point x="-45.33333333333326" y="-96.0" />
+              <point x="1529.6666666666667" y="2799.0" />
+              <point x="1241.7" y="2799.0" />
+              <point x="283.20000000000005" y="1166.5" />
+            </edge>
+            <edge source="java.lang.Thread.State" target="java.lang.Comparable">
+              <point x="0.0" y="-96.0" />
+              <point x="1575.0" y="2809.0" />
+              <point x="1606.5" y="2809.0" />
+              <point x="-42.0" y="26.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.About" target="banking.server.ServerGUI">
+              <point x="0.0" y="-26.5" />
+              <point x="6041.6222868217055" y="2789.0" />
+              <point x="5005.702380952381" y="2789.0" />
+              <point x="103.28571428571377" y="303.0" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Add.Cancel" target="banking.server.ServerGUI.Add">
+              <point x="0.0" y="-26.5" />
+              <point x="4021.0" y="3776.0" />
+              <point x="4142.166666666667" y="3776.0" />
+              <point x="-23.333333333333485" y="280.0" />
+            </edge>
+            <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+              <point x="0.0" y="-26.5" />
+              <point x="958.5" y="55.0" />
+              <point x="646.7987541528241" y="55.0" />
+              <point x="39.25" y="15.0" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Delete.DeleteFinish" target="banking.server.ServerGUI.Delete">
+              <point x="0.0" y="-26.5" />
+              <point x="5755.0" y="3776.0" />
+              <point x="5553.2889534883725" y="3776.0" />
+              <point x="89.66666666666697" y="245.5" />
+            </edge>
+            <edge source="java.lang.Exception" target="java.lang.Throwable">
+              <point x="0.0" y="-84.5" />
+              <point x="2708.5" y="3776.0" />
+              <point x="2666.073532668882" y="3776.0" />
+              <point x="135.0" y="453.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Add.Back1" target="banking.server.ServerGUI.Add">
+              <point x="0.0" y="-26.5" />
+              <point x="4888.0" y="3756.0" />
+              <point x="4282.166666666667" y="3756.0" />
+              <point x="116.66666666666697" y="280.0" />
+            </edge>
+            <edge source="java.lang.Thread.State" target="java.io.Serializable">
+              <point x="45.33333333333326" y="-96.0" />
+              <point x="1620.3333333333333" y="2799.0" />
+              <point x="2138.1737541528237" y="2799.0" />
+              <point x="-42.75" y="15.0" />
+            </edge>
+            <edge source="java.lang.Throwable.PrintStreamOrWriter" target="java.lang.Throwable">
+              <point x="0.0" y="-50.0" />
+              <point x="2281.25" y="3776.0" />
+              <point x="2396.073532668882" y="3776.0" />
+              <point x="-135.0" y="453.5" />
+            </edge>
+            <edge source="banking.server.ConnectWithClient" target="java.lang.Thread">
+              <point x="0.0" y="-292.0" />
+              <point x="1334.0" y="2809.0" />
+              <point x="1100.1000000000001" y="2809.0" />
+              <point x="141.60000000000014" y="1166.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Quit" target="banking.server.ServerGUI">
+              <point x="0.0" y="-26.5" />
+              <point x="0.0" y="303.0" />
+            </edge>
+            <edge source="java.lang.Thread.WeakClassKey" target="java.lang.Thread">
+              <point x="0.0" y="-62.0" />
+              <point x="539.5" y="2809.0" />
+              <point x="816.9000000000001" y="2809.0" />
+              <point x="-141.5999999999999" y="1166.5" />
+            </edge>
+            <edge source="java.lang.Throwable.WrappedPrintWriter" target="java.lang.Throwable">
+              <point x="64.75" y="-62.0" />
+              <point x="2486.75" y="4037.0" />
+              <point x="2452.0" y="4037.0" />
+              <point x="2452.0" y="3776.0" />
+              <point x="2531.073532668882" y="3776.0" />
+              <point x="0.0" y="453.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Add.Next1" target="banking.server.ServerGUI.Add">
+              <point x="0.0" y="-26.5" />
+              <point x="3443.0" y="3756.0" />
+              <point x="4048.833333333334" y="3756.0" />
+              <point x="-116.66666666666652" y="280.0" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Add.Next2" target="banking.server.ServerGUI.Add">
+              <point x="0.0" y="-26.5" />
+              <point x="3732.0" y="3766.0" />
+              <point x="4095.5" y="3766.0" />
+              <point x="-70.0" y="280.0" />
+            </edge>
+            <edge source="banking.server.OverdraftException" target="java.lang.Exception">
+              <point x="0.0" y="-50.5" />
+              <point x="0.0" y="84.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Add.AddFinish" target="banking.server.ServerGUI.Add">
+              <point x="0.0" y="-26.5" />
+              <point x="4599.0" y="3766.0" />
+              <point x="4235.5" y="3766.0" />
+              <point x="70.0" y="280.0" />
+            </edge>
+            <edge source="banking.server.ServerGUI.NumberOnlyField" target="java.io.Serializable">
+              <point x="-75.25" y="-38.5" />
+              <point x="3425.1320874861576" y="2799.0" />
+              <point x="2223.6737541528237" y="2799.0" />
+              <point x="42.75" y="15.0" />
+            </edge>
+            <edge source="java.lang.Throwable.WrappedPrintWriter" target="java.lang.Throwable.PrintStreamOrWriter">
+              <point x="-64.75" y="-62.0" />
+              <point x="2357.25" y="4037.0" />
+              <point x="2330.75" y="4037.0" />
+              <point x="49.5" y="50.0" />
+            </edge>
+            <edge source="banking.server.SavingAccount" target="banking.server.Account">
+              <point x="0.0" y="-108.0" />
+              <point x="1943.5" y="3776.0" />
+              <point x="1840.0" y="3776.0" />
+              <point x="59.0" y="211.5" />
+            </edge>
+            <edge source="banking.server.Account" target="java.io.Serializable">
+              <point x="59.0" y="-211.5" />
+              <point x="1840.0" y="2809.0" />
+              <point x="2166.6737541528237" y="2809.0" />
+              <point x="-14.25" y="15.0" />
+            </edge>
+            <edge source="java.lang.Thread.UncaughtExceptionHandler" target="java.lang.Thread">
+              <point x="80.75" y="-26.5" />
+              <point x="242.25" y="2799.0" />
+              <point x="675.2999999999997" y="2799.0" />
+              <point x="-283.20000000000005" y="1166.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Tip" target="banking.server.ServerGUI">
+              <point x="0.0" y="-26.5" />
+              <point x="4613.416666666667" y="2809.0" />
+              <point x="4867.988095238095" y="2809.0" />
+              <point x="-34.42857142857156" y="303.0" />
+            </edge>
+            <edge source="java.lang.Thread.Caches" target="java.lang.Thread">
+              <point x="0.0" y="-50.0" />
+              <point x="0.0" y="1166.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Login" target="banking.server.ServerGUI">
+              <point x="0.0" y="-26.5" />
+              <point x="5752.6222868217055" y="2799.0" />
+              <point x="4971.27380952381" y="2799.0" />
+              <point x="68.85714285714312" y="303.0" />
+            </edge>
+            <edge source="java.lang.Throwable.SentinelHolder" target="java.lang.Throwable">
+              <point x="0.0" y="-50.0" />
+              <point x="3095.5" y="3776.0" />
+              <point x="2801.073532668882" y="3776.0" />
+              <point x="270.0" y="453.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Add.Back2" target="banking.server.ServerGUI.Add">
+              <point x="0.0" y="-26.5" />
+              <point x="4310.0" y="3776.0" />
+              <point x="4188.833333333333" y="3776.0" />
+              <point x="23.33333333333303" y="280.0" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Delete" target="banking.server.ServerGUI">
+              <point x="0.0" y="-245.5" />
+              <point x="5463.6222868217055" y="2809.0" />
+              <point x="4936.8452380952385" y="2809.0" />
+              <point x="34.42857142857156" y="303.0" />
+            </edge>
+            <edge source="banking.server.ServerGUI.NumberOnlyField" target="banking.server.ServerGUI">
+              <point x="75.25" y="-38.5" />
+              <point x="3575.6320874861576" y="2789.0" />
+              <point x="4799.130952380952" y="2789.0" />
+              <point x="-103.28571428571468" y="303.0" />
+            </edge>
+            <edge source="banking.server.CheckingAccount" target="banking.server.Account">
+              <point x="0.0" y="-96.5" />
+              <point x="1618.5" y="3776.0" />
+              <point x="1722.0" y="3776.0" />
+              <point x="-59.0" y="211.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Add" target="banking.server.ServerGUI">
+              <point x="0.0" y="-280.0" />
+              <point x="4165.5" y="2799.0" />
+              <point x="4833.559523809524" y="2799.0" />
+              <point x="-68.85714285714312" y="303.0" />
+            </edge>
+            <edge source="java.lang.Throwable.WrappedPrintStream" target="java.lang.Throwable">
+              <point x="-67.25" y="-62.0" />
+              <point x="2070.75" y="4037.0" />
+              <point x="2108.0" y="4037.0" />
+              <point x="2108.0" y="3776.0" />
+              <point x="2261.073532668882" y="3776.0" />
+              <point x="-270.0" y="453.5" />
+            </edge>
+            <edge source="java.lang.Thread.UncaughtExceptionHandler" target="java.lang.FunctionalInterface">
+              <point x="-80.75" y="-26.5" />
+              <point x="80.75" y="55.0" />
+              <point x="568.2987541528241" y="55.0" />
+              <point x="-39.25" y="15.0" />
+            </edge>
+            <edge source="java.lang.Thread" target="java.lang.Runnable">
+              <point x="0.0" y="-1166.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI.Delete.Next" target="banking.server.ServerGUI.Delete">
+              <point x="0.0" y="-26.5" />
+              <point x="5177.0" y="3776.0" />
+              <point x="5373.955620155039" y="3776.0" />
+              <point x="-89.66666666666697" y="245.5" />
+            </edge>
+            <edge source="banking.server.Account" target="java.lang.Comparable">
+              <point x="-59.0" y="-211.5" />
+              <point x="1722.0" y="2789.0" />
+              <point x="1690.5" y="2789.0" />
+              <point x="42.0" y="26.5" />
+            </edge>
+            <edge source="banking.server.ServerGUI" target="banking.data.Instruction">
+              <point x="-60.25" y="-303.0" />
+              <point x="4842.166666666667" y="411.0" />
+              <point x="4806.166666666667" y="411.0" />
+              <point x="0.0" y="153.0" />
+            </edge>
+            <edge source="java.lang.Throwable.WrappedPrintStream" target="java.lang.Throwable.PrintStreamOrWriter">
+              <point x="67.25" y="-62.0" />
+              <point x="2205.25" y="4037.0" />
+              <point x="2231.75" y="4037.0" />
+              <point x="-49.5" y="50.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.18275283256399497" x="3089.0" y="2373.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/client/ClientOperatingGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="71" column="83" selection-start-line="71" selection-start-column="83" selection-end-line="71" selection-end-column="83" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2423#2489#0" />
+            <element signature="e#14037#14181#0" />
+            <element signature="e#14037#14354#0" />
+            <element signature="e#14361#14501#0" />
+            <element signature="e#14361#14766#0" />
+            <element signature="e#14557#14760#0" />
+            <element signature="e#14773#14874#0" />
+            <element signature="e#14773#17682#0" />
+            <element signature="e#14936#17676#0" />
+            <element signature="e#17689#17830#0" />
+            <element signature="e#17689#18384#0" />
+            <element signature="e#17884#18378#0" />
+            <element signature="e#18391#18824#0" />
+            <element signature="e#18439#18818#0" />
+            <element signature="e#18831#18971#0" />
+            <element signature="e#18831#19194#0" />
+            <element signature="e#19027#19188#0" />
+            <element signature="e#19201#19302#0" />
+            <element signature="e#19201#20976#0" />
+            <element signature="e#19364#20970#0" />
+            <element signature="e#20983#21121#0" />
+            <element signature="e#20983#21341#0" />
+            <element signature="e#21176#21335#0" />
+            <element signature="e#21348#21448#0" />
+            <element signature="e#21348#23031#0" />
+            <element signature="e#21509#23025#0" />
+            <element signature="e#23038#23192#0" />
+            <element signature="e#23038#23458#0" />
+            <element signature="e#23249#23452#0" />
+            <element signature="e#23465#23573#0" />
+            <element signature="e#23465#25886#0" />
+            <element signature="e#23636#25880#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/client/ConnectWithServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/client/ClientLoginGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="class#Quit#0;class#ClientLoginGUI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/server/ConnectWithClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="288" column="77" selection-start-line="288" selection-start-column="77" selection-end-line="288" selection-end-column="77" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/server/CheckingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/server/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/server/BankServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/banking/server/ServerGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#buildLoginGUI#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Login#0;class#ServerGUI#0" />
+            <element signature="docComment;method#actionPerformed#0;class#Login#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Add#0;class#ServerGUI#0" />
+            <element signature="docComment;method#actionPerformed#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="method#actionPerformed#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Next1#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="class#Next1#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="method#actionPerformed#0;class#Next1#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Next2#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="class#Next2#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="method#actionPerformed#0;class#Next2#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Back1#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="class#Back1#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Back2#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="class#Back2#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="method#actionPerformed#0;class#Back2#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Cancel#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="class#Cancel#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="docComment;class#AddFinish#0;class#Add#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Delete#0;class#ServerGUI#0" />
+            <element signature="docComment;method#actionPerformed#0;class#Delete#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Next#0;class#Delete#0;class#ServerGUI#0" />
+            <element signature="class#Next#0;class#Delete#0;class#ServerGUI#0" />
+            <element signature="method#actionPerformed#0;class#Next#0;class#Delete#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Cancel#0;class#Delete#0;class#ServerGUI#0" />
+            <element signature="class#Cancel#0;class#Delete#0;class#ServerGUI#0" />
+            <element signature="docComment;class#DeleteFinish#0;class#Delete#0;class#ServerGUI#0" />
+            <element signature="class#DeleteFinish#0;class#Delete#0;class#ServerGUI#0" />
+            <element signature="method#actionPerformed#0;class#DeleteFinish#0;class#Delete#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Quit#0;class#ServerGUI#0" />
+            <element signature="docComment;class#Tip#0;class#ServerGUI#0" />
+            <element signature="class#Tip#0;class#ServerGUI#0" />
+            <element signature="method#actionPerformed#0;class#Tip#0;class#ServerGUI#0" />
+            <element signature="docComment;class#About#0;class#ServerGUI#0" />
+            <element signature="class#About#0;class#ServerGUI#0" />
+            <element signature="method#actionPerformed#0;class#About#0;class#ServerGUI#0" />
+            <element signature="docComment;class#NumberOnlyField#0;class#ServerGUI#0" />
+            <element signature="class#NumberOnlyField#0;class#ServerGUI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>Client:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ATM</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
