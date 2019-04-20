@@ -1,6 +1,5 @@
 /**
- * @author: 黄明
- * @studentNumber: 17301004
+ * @author: Yi
  * @className: Instruction.java
  * @packageName: banking.data
  * @date: 2018-11-24    14:50
