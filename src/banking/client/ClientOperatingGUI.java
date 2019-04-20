@@ -1,6 +1,5 @@
 /**
- * @author: 黄明
- * @studentNumber: 17301004
+ * @author: Yi
  * @className: ClientOperatingGUI.java
  * @packageName: banking.client
  * @date: 2018-11-24    22:00
