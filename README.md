@@ -4,6 +4,6 @@ It realizes local account management.
 Because I'm learning C++, ~~I'll rearrange this project one day~~.
 
 
-![Server](https://github.com/Yi1275432232/ATM/blob/master/server.png=true) 
+![Server](https://github.com/Yi1275432232/ATM/raw/master/server.png) 
 
-![Client](https://github.com/Yi1275432232/ATM/blob/master/client.png=true) 
+![Client](https://github.com/Yi1275432232/ATM/raw/master/client.png) 
