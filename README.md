@@ -1,6 +1,7 @@
 # ATM
 My course design assignment last semester, **with many redundant code segments**.  
-It realizes local account management.  
+The program is divided into server and client.
+It realizes local account management. You can use it to manage accounts, save money, withdraw money, transfer money and so on.  
 Because I'm learning C++, ~~I'll rearrange this project one day~~.
 
 
